@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a .NET Developer from Scotland currently focusing on .NET Core development using ASP.NET
+I'm a .NET Developer from Scotland currently focusing on .NET Core development.
 
 
 ## 🔗 Links
